@@ -2,13 +2,13 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1: sso
-  name:        SOHYUN PARK
-  email:          pshyun312@naver.com
+  name:        <SOHYUN PARK>
+  email:          <pshyun312@naver.com>
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
-  about:         Hi, I'm SOHYUN PARK!
-                 This blog is for my study and develop recodes.
+  about:         "Hi, I'm SOHYUN PARK!
+                 This blog is for my study and develop recodes."
     
   # This photo will be used in the about section
   picture:
